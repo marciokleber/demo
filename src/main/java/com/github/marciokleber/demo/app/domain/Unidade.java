@@ -1,7 +1,6 @@
 package com.github.marciokleber.demo.app.domain;
 
 import com.github.marciokleber.demo.core.standard.domain.StandardEntity;
-import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.SequenceGenerator;
 import lombok.Getter;
